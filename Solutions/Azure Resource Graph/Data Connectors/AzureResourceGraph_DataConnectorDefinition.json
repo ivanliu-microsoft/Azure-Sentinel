@@ -38,10 +38,12 @@
                                 "label": "ARGResourceContainers"
                             },
                             {
-                                "label": "ARGResources"
+                                "label": "ARGResources",
+                                "tags": ["Update"]
                             },
                             {
-                                "label": "ARGRoleDefinitions"
+                                "label": "ARGRoleDefinitions",
+                                "tags": ["Preview", "New", "Deprecated"]
                             }
                         ]
                     },
